@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPracticeLab_7-8_HolePlugin", "FinalPracticeLab_7-8_HolePlugin\FinalPracticeLab_7-8_HolePlugin.csproj", "{62D812C8-4151-44DA-BB6F-C2986E659ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D812C8-4151-44DA-BB6F-C2986E659ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D812C8-4151-44DA-BB6F-C2986E659ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D812C8-4151-44DA-BB6F-C2986E659ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D812C8-4151-44DA-BB6F-C2986E659ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF138CA-C6DA-4EDC-90D7-E9444C15CE38}
+	EndGlobalSection
+EndGlobal
